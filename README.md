@@ -1,6 +1,6 @@
 ### Hi there, I'm Jane Illarionova 👋
 
-I'm an upcoming graduate of the University of Toronto in Computer Engineering. I will be joining [Amazon](https://www.amazon.ca/) as a Software Developer on their Scheduling Team helping Amazon hire the best!
+I'm an upcoming graduate of the University of Toronto in Computer Engineering, specializing in Software and Controls and doing a minor in Machine Intelligence. I am excited to be joining [Microsoft](https://www.microsoft.com/) as a Software Engineer upon graduation!
 
 <!--
 **JaneIllario/JaneIllario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
