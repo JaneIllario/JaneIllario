@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 Check out my website at [janeillario.github.io](https://www.janeillario.github.io/).
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/JaneIllarionova?label=Follow&style=social)](https://twitter.com/JaneIllarionova) ![Profile Views](https://gpvc.arturio.dev/janeillario)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JaneIllarionova?label=Follow&style=social)](https://twitter.com/JaneIllarionova) 
