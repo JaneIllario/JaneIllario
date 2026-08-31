@@ -1,6 +1,6 @@
 ### Hi there, I'm Jane Illarionova 👋
 
-I'm a Software Engineer at Microsoft and a graduate of the University of Toronto in Computer Engineering. I love working on backend solutions, optimizing my code, working with Machine Intelligence, reading about neuroscience, and trying new cheeses.
+I'm a Software Engineer at Microsoft and a graduate of the University of Toronto in Computer Engineering. I love working on highly optimized distributed systems, Machine Intelligence, reading about neuroscience, and trying new cheeses.
 
 <!--
 **JaneIllario/JaneIllario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
